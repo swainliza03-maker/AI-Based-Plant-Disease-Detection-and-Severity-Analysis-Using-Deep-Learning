@@ -21,7 +21,6 @@ This project uses Deep Learning and Convolutional Neural Networks (CNN) to detec
 * NumPy
 * Pandas
 * Matplotlib
-* Google Colab
 
 ## Dataset
 
@@ -39,7 +38,3 @@ The system provides:
 ## Model
 
 A Convolutional Neural Network (CNN) is used for plant disease classification.
-
-## Author
-
-Liza Swain
