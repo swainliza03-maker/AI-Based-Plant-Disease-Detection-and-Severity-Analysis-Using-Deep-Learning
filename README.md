@@ -1,40 +1,28 @@
-# AI-Based-Plant-Disease-Detection-and-Severity-Analysis-Using-Deep-Learning
 
-## Project Overview
+#  CareerAI Dashboard
 
-This project uses Deep Learning and Convolutional Neural Networks (CNN) to detect plant diseases from leaf images and estimate the severity of the affected area.
+CareerAI is an AI-powered career guidance dashboard built with Python and Streamlit.
 
-## Objective
+##  Features
 
-* Detect plant diseases from leaf images.
-* Classify the disease using a CNN model.
-* Estimate the affected area.
-* Display the severity level as Low, Moderate, or Severe.
+-  User profile input
+-  Automatic skill detection
+-  Skills Match Score
+-  Career role recommendations
+-  Recommended skills to learn
+-  Career summary
+-  Education and experience analysis
 
-## Technologies Used
+##  Technologies Used
 
-* Python
-* TensorFlow
-* Keras
-* CNN
-* OpenCV
-* NumPy
-* Pandas
-* Matplotlib
+- Python
+- Streamlit
 
-## Dataset
+##  Project Type
 
-PlantVillage Tiny dataset containing plant leaf images from multiple disease classes.
+Data Science / AI Career Guidance Project
 
-## Project Output
+##  Run the Project
 
-The system provides:
-
-* Predicted disease
-* Prediction confidence
-* Affected area percentage
-* Severity level
-
-## Model
-
-A Convolutional Neural Network (CNN) is used for plant disease classification.
+```bash
+streamlit run app.py
